@@ -22,9 +22,11 @@ Project Objectives
 
 Project Structure
 
-* SQL/ – SQL queries used for data exploration and analysis.
-* Power BI/ – Interactive Power BI dashboard.
-* Screenshots/ – Dashboard screenshots and visualizations.
+## Project Files
+
+- Amit_Final project.pbix – Power BI dashboard.
+- AMIT SQL FINAL PROJECT.sql – SQL queries used for data analysis.
+- Screenshots/ – Dashboard screenshots.
 
 Dashboard Preview
 ### Page 1
