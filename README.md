@@ -25,7 +25,6 @@ Project Structure
 * SQL/ – SQL queries used for data exploration and analysis.
 * Power BI/ – Interactive Power BI dashboard.
 * Screenshots/ – Dashboard screenshots and visualizations.
-* Presentation/ – Final project presentation.
 
 Dashboard Preview
 ### Page 1
