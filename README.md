@@ -29,22 +29,20 @@ Project Structure
 
 Dashboard Preview
 ### Page 1
-![Page 1](Screenshots/PAGE 1.png)
+![Page 1](Screenshots/PAGE%201.png)
 
 ### Project Overview
-![Project Overview](Screenshots/GENERAL OVERVIEW PAGR.png)
+![Project Overview](Screenshots/GENERAL%20OVERVIEW PAGR.png)
 
 ### Detailed analysis
-![Detailed analysis](Screenshots/DETAILED ANALYSIS.png)
+![Detailed analysis](Screenshots/DETAILED%20ANALYSIS.png)
 
 ### Detailed analysis 2
-![Detailed analysis](Screenshots/DETAILED ANALYSIS 2.png)
+![Detailed analysis](Screenshots/DETAILED%20ANALYSIS%202.png)
 
 ### Key insights and results
-![key insights](Screenshots/KEY INSIGHTS & RESULTS.png)
+![key insights](Screenshots/KEY%20INSIGHTS%20%26%20RESULTS.png)
 
 
-Key Insights & Results
 
-Coming soon.
 
