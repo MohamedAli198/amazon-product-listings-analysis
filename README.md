@@ -43,6 +43,26 @@ Dashboard Preview
 ### Key insights and results
 ![key insights](Screenshots/KEY%20INSIGHTS%20%26%20RESULTS.png)
 
+# Key Insights & Results
+
+### 1. Portfolio & Market Overview
+
+- *Product Concentration:* The catalog comprises 308 total products, with an overall average price of $172.58 and an average rating of 4.09 across 871K total customer ratings.
+- *Dominant Categories & Brands:* Mobile Phones represent the largest product category (192 items), while Samsung leads in product volume (87 items). Apple dominates customer engagement with 220K ratings, followed by Other (160K) and Samsung (152K).
+- *Best Seller Scarcity:* Only 0.65% (2 products) hold the "Best Seller" badge, indicating that top seller status is concentrated among a very small fraction of listings.
+
+### 2. Pricing Strategy & Prime Impact
+
+- *Price Tier Distribution:* The catalog is heavily skewed toward budget-friendly options, with Low-price items accounting for the majority of listings, followed by Medium and High-price tiers.
+- *Prime vs. Non-Prime Pricing:* Non-Prime products show a higher average price ($229) compared to Prime-eligible products ($148).
+- *Discount Dynamics:* Products with active discounts have a slightly higher average price ($183) than non-discounted items ($161), suggesting that discounts are more common among higher-ticket products.
+
+### 3. Customer Ratings & Satisfaction Drivers
+
+- *Rating Resilience:* Average customer ratings remain consistent at approximately 4.1 regardless of discount availability. Ratings also cluster around 4.0+ across price points.
+- *Brand Price-to-Rating Outliers:* Most brands maintain average ratings between 3.80 and 4.40, while certain niche brands show rating declines to 2.80 in lower-price segments, potentially highlighting quality concerns.
+
+
 
 
 
