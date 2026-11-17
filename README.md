@@ -32,7 +32,7 @@ Dashboard Preview
 ![Page 1](Screenshots/PAGE%201.png)
 
 ### Project Overview
-![Project Overview](Screenshots/GENERAL%20OVERVIEW PAGR.png)
+![Project Overview](Screenshots/GENERAL%20OVERVIEW%20PAGE.png)
 
 ### Detailed analysis
 ![Detailed analysis](Screenshots/DETAILED%20ANALYSIS.png)
