@@ -28,8 +28,21 @@ Project Structure
 * Presentation/ – Final project presentation.
 
 Dashboard Preview
+### Page 1
+![Page 1](Screenshots/PAGE 1.png)
 
-Coming soon.
+### Project Overview
+![Project Overview](Screenshots/GENERAL OVERVIEW PAGR.png)
+
+### Detailed analysis
+![Detailed analysis](Screenshots/DETAILED ANALYSIS.png)
+
+### Detailed analysis 2
+![Detailed analysis](Screenshots/DETAILED ANALYSIS 2.png)
+
+### Key insights and results
+![key insights](Screenshots/KEY INSIGHTS & RESULTS.png)
+
 
 Key Insights & Results
 
